@@ -1,2 +1,2 @@
-# async_fifo
+# Asynchronous FIFO
 
